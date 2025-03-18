@@ -27,7 +27,7 @@ section {
 
 .inicio-fundo {
     /* aula 3 */
-    background-image: url(img/imagem2.png);
+    background-image: url(imag.png);
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
@@ -35,7 +35,7 @@ section {
     width: 100%;
     height: 500px;
     padding: 20px;
-    margin: 0 auto;
+    margin: 0 ;
 }
 
 /* posicionamento para a imagem à direita */
@@ -78,7 +78,7 @@ section {
     padding-top: 5rem;
     margin-top: 3rem;
     margin-bottom: 3rem;
-    background: url('img/flor.png') top right no-repeat,
+    background: url(conheca-o-toyota-supra.jpg) top right no-repeat,
         url('img/flor-esquerda.png') bottom left no-repeat;
     background-size: 180px 180px;
     /* Ajuste o tamanho conforme necessário */
