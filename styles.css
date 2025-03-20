@@ -27,14 +27,14 @@ section {
 
 .inicio-fundo {
     /* aula 3 */
-    background-image: url(imagens/TOYOTA-SUPRA-MK4-1.png);
+    background-image: url();
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
-    border-radius: 80px;
-    width: 100%;
-    height: 450px;
-    padding: 20px;
+    border-radius: 40px;
+    width: 55%;
+    height: 350px;
+    padding: 5px;
     margin: 0 ;
 }
 
@@ -75,12 +75,12 @@ section {
 
 #supra {
     position: relative;
-    padding-top: 5rem;
+    padding-top: 3rem;
     margin-top: 3rem;
     margin-bottom: 3rem;
-    background: url(imagens/images.png) top right no-repeat,
-        url('img/flor-esquerda.png') bottom left no-repeat;
-    background-size: 180px 180px;
+    background: url() top right no-repeat,
+        url() bottom left no-repeat;
+    background-size: 100px 100px;
     /* Ajuste o tamanho conforme necessário */
 }
 
