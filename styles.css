@@ -27,13 +27,13 @@ section {
 
 .inicio-fundo {
     /* aula 3 */
-    background-image: url(imag.png);
+    background-image: url(imagens/TOYOTA-SUPRA-MK4-1.png);
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
     border-radius: 80px;
     width: 100%;
-    height: 500px;
+    height: 450px;
     padding: 20px;
     margin: 0 ;
 }
@@ -57,7 +57,7 @@ section {
 
 
 .botao-inicio {
-    background-color: var(--laranja-claro);
+    background-color: var(--preto);
     border-radius: 30px;
     border: none;
     width: 14em;
@@ -78,7 +78,7 @@ section {
     padding-top: 5rem;
     margin-top: 3rem;
     margin-bottom: 3rem;
-    background: url(conheca-o-toyota-supra.jpg) top right no-repeat,
+    background: url(imagens/images.png) top right no-repeat,
         url('img/flor-esquerda.png') bottom left no-repeat;
     background-size: 180px 180px;
     /* Ajuste o tamanho conforme necessário */
@@ -98,21 +98,21 @@ h2 {
     font-family: 'Lemon', serif;
     font-size: 2.5em;
     font-style: normal;
-    color: var(--laranja-claro);
+    color: var(--preto);
 }
 
 #galeria {
-    background-color: #FAF4F4;
+    background-color: #7cdada;
 
 }
 
 .fundo-galeria {
-    background: url('img/flor-bottom-direita.png') bottom right no-repeat;
+    background: url(imagens/toyota-supra-a90-6.png) bottom right no-repeat;
     background-size: 180px 180px;
 }
 
 #contato {
-    background-image: url('img/4965007.jpg');
+    background-image: url(imagens/4956272.png);
     background-size: cover;
     padding: 4rem 0;
     /* Espaçamento interno para a seção de contato */
