@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --laranja-claro: #2ab1ff;
+    --laranja-claro: #00a2ff;
 }
 
 body {
@@ -57,7 +57,7 @@ section {
 
 
 .botao-inicio {
-    background-color: var(--preto);
+    background-color: var(--azul);
     border-radius: 30px;
     border: none;
     width: 14em;
@@ -102,12 +102,12 @@ h2 {
 }
 
 #galeria {
-    background-color: #7cdada;
+    background-color: #000000;
 
 }
 
 .fundo-galeria {
-    background: url(imagens/toyota-supra-a90-6.png) bottom right no-repeat;
+    background: url() bottom right no-repeat;
     background-size: 180px 180px;
 }
 
@@ -120,23 +120,23 @@ h2 {
 }
 
 .formulario {
-    background-color: #ffffff;
+    background-color: #000000;
     padding: 2rem;
     /* Espaçamento interno dentro do formulário */
     border-radius: 10px;
     /* Borda arredondada para o formulário */
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px rgb(0, 0, 0);
     /* Sombra suave para destacar o formulário */
     font-weight: bold;
 }
 
 .formulario button {
-    background-color: #07c2fc;
+    background-color: #000000;
     border: none;
     font-weight: bold;
 }
 
 /* chama classe do bootstrap para modificar a cor */
 .form-control {
-    background-color: #F1EDEF;
+    background-color: #b9256f;
 }
